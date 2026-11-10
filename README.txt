@@ -1,0 +1,1 @@
+Flappy Clone é um jogo web minimalista clone do clássico Flappy Bird, feito para praticar programação em HTML, CSS, JS.
